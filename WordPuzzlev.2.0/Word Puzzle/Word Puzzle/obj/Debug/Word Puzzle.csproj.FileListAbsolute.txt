@@ -1,0 +1,7 @@
+C:\Users\Alper\Desktop\WordPuzzle-master\Word Puzzle\Word Puzzle\bin\Debug\Word Puzzle.exe.config
+C:\Users\Alper\Desktop\WordPuzzle-master\Word Puzzle\Word Puzzle\bin\Debug\Word Puzzle.exe
+C:\Users\Alper\Desktop\WordPuzzle-master\Word Puzzle\Word Puzzle\bin\Debug\Word Puzzle.pdb
+C:\Users\Alper\Desktop\WordPuzzle-master\Word Puzzle\Word Puzzle\obj\Debug\Word Puzzle.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\WordPuzzle-master\Word Puzzle\Word Puzzle\obj\Debug\Word Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\WordPuzzle-master\Word Puzzle\Word Puzzle\obj\Debug\Word Puzzle.exe
+C:\Users\Alper\Desktop\WordPuzzle-master\Word Puzzle\Word Puzzle\obj\Debug\Word Puzzle.pdb
